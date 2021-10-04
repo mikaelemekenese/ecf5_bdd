@@ -19,3 +19,18 @@ localisation identifiée par la ville (Nouvelle-Calédonie seulement) où l’ar
 * Lors de la visualisation d’une annonce, on doit voir les info de l’annonce mais aussi la date à laquelle elle a été publiée 
 ainsi que le pseudo du vendeur.
 * Un utilisateur qui dispose d’un compte peut ajouter autant d’annonces qu’il souhaite dans ses favoris.
+<br><br>
+
+<h2>Consignes</h2>
+<br>
+
+1. Etablissez le MCD dans StarUML.
+2. Etablissez le MPD dans StarUML.
+3. Justifiez votre choix pour le stockage des photos.
+4. Elaborez le script SQL de création de la base de données et des tables.
+5. Elaborez un script d’insertion de jeu de données de test comprenant au minimum 5 utilisateurs, 5 catégories et 20 annonces.
+<br>
+Rédigez les requêtes SQL suivantes : 
+7. Afficher les annonces actives triées par vendeur et date publication. Afficher toutes les infos des annonces, ainsi que le nom du fichier des photos et le pseudo du vendeur.
+8. Afficher le titre, prix, localisation, pseudo du vendeur des annonces classées dans une catégorie de votre choix, triées par date de publication de la plus récente à la plus ancienne.
+9. Afficher le titre, prix, localisation des annonces favorites d’un utilisateur, triées par catégorie et prix croissant
