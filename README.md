@@ -4,6 +4,7 @@ Mise en place du package "Annonces" de la base de données annonces.nc.
 <br><br>
 <h2>Enoncé</h2>
 <br>
+
 * Une annonce est publiée par un vendeur qui dispose d’un compte utilisateur.
 * Un vendeur peut publier autant d’annonces qu’il souhaite.
 * Seules 15 annonces peuvent être actives à un instant t.
