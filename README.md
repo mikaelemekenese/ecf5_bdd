@@ -31,7 +31,8 @@ ainsi que le pseudo du vendeur.
 5. Elaborez un script d’insertion de jeu de données de test comprenant au minimum 5 utilisateurs, 5 catégories et 20 annonces.
 <br>
 Rédigez les requêtes SQL suivantes : 
+<br>
 
-7. Afficher les annonces actives triées par vendeur et date publication. Afficher toutes les infos des annonces, ainsi que le nom du fichier des photos et le pseudo du vendeur.
-8. Afficher le titre, prix, localisation, pseudo du vendeur des annonces classées dans une catégorie de votre choix, triées par date de publication de la plus récente à la plus ancienne.
-9. Afficher le titre, prix, localisation des annonces favorites d’un utilisateur, triées par catégorie et prix croissant
+6. Afficher les annonces actives triées par vendeur et date publication. Afficher toutes les infos des annonces, ainsi que le nom du fichier des photos et le pseudo du vendeur.
+7. Afficher le titre, prix, localisation, pseudo du vendeur des annonces classées dans une catégorie de votre choix, triées par date de publication de la plus récente à la plus ancienne.
+8. Afficher le titre, prix, localisation des annonces favorites d’un utilisateur, triées par catégorie et prix croissant
